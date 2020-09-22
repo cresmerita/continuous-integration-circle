@@ -3,7 +3,7 @@ layout: default
 title: Getting ready for class
 ---
 
-Time now: {{ site.time }}
+Time now: {{ site.time}}
 
 
 ## Getting Ready for Class
